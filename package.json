@@ -1,0 +1,24 @@
+{
+  "name": "pa11y",
+  "version": "0.0.0",
+  "description": "A web tool to check whether your color scheme is a11y / WCAG compliant.",
+  "main": "index.js",
+  "repository": "git@github.com:josephluck/pa11y.git",
+  "author": "Joseph Luck <joseph.luck@sky.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "color": "^3.1.2",
+    "fast-memoize": "^2.5.2",
+    "fp-ts": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "jest": "^26.0.1",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.3"
+  }
+}

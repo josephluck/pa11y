@@ -38,6 +38,15 @@
 
 # Prior art
 
+- Accessible color checking & suggestions:
+  https://accessible-colors.com/
+
+- Accessible contrast checker:
+  https://contrastchecker.com/
+
+- Contrast ratio checker:
+  https://contrast-ratio.com/#green-on-red
+
 - A11y color pair contrast testing:
   https://color.a11y.com/ContrastPair/?bgcolor=ffffff&fgcolor=000000
 

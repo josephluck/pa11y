@@ -1,0 +1,222 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contrast #000000 text on "#000000" background 1`] = `
+Object {
+  "AA": false,
+  "AAA": false,
+  "AAALarge": false,
+  "AALarge": false,
+  "accessibilityLevels": Array [],
+  "contrast": 1,
+}
+`;
+
+exports[`Contrast #000000 text on "#111111" background 1`] = `
+Object {
+  "AA": false,
+  "AAA": false,
+  "AAALarge": false,
+  "AALarge": false,
+  "accessibilityLevels": Array [],
+  "contrast": 1.1121078324840545,
+}
+`;
+
+exports[`Contrast #000000 text on "#222222" background 1`] = `
+Object {
+  "AA": false,
+  "AAA": false,
+  "AAALarge": false,
+  "AALarge": false,
+  "accessibilityLevels": Array [],
+  "contrast": 1.3199258673101926,
+}
+`;
+
+exports[`Contrast #000000 text on "#333333" background 1`] = `
+Object {
+  "AA": false,
+  "AAA": false,
+  "AAALarge": false,
+  "AALarge": false,
+  "accessibilityLevels": Array [],
+  "contrast": 1.6620953314177012,
+}
+`;
+
+exports[`Contrast #000000 text on "#444444" background 1`] = `
+Object {
+  "AA": false,
+  "AAA": false,
+  "AAALarge": false,
+  "AALarge": false,
+  "accessibilityLevels": Array [],
+  "contrast": 2.156108603821344,
+}
+`;
+
+exports[`Contrast #000000 text on "#555555" background 1`] = `
+Object {
+  "AA": false,
+  "AAA": false,
+  "AAALarge": false,
+  "AALarge": false,
+  "accessibilityLevels": Array [],
+  "contrast": 2.816834223668153,
+}
+`;
+
+exports[`Contrast #000000 text on "#666666" background 1`] = `
+Object {
+  "AA": false,
+  "AAA": false,
+  "AAALarge": false,
+  "AALarge": true,
+  "accessibilityLevels": Array [
+    "AALarge",
+  ],
+  "contrast": 3.6573664310763587,
+}
+`;
+
+exports[`Contrast #000000 text on "#777777" background 1`] = `
+Object {
+  "AA": true,
+  "AAA": false,
+  "AAALarge": true,
+  "AALarge": true,
+  "accessibilityLevels": Array [
+    "AALarge",
+    "AA",
+    "AAALarge",
+  ],
+  "contrast": 4.68949989000882,
+}
+`;
+
+exports[`Contrast #000000 text on "#888888" background 1`] = `
+Object {
+  "AA": true,
+  "AAA": false,
+  "AAALarge": true,
+  "AALarge": true,
+  "accessibilityLevels": Array [
+    "AALarge",
+    "AA",
+    "AAALarge",
+  ],
+  "contrast": 5.924026534156709,
+}
+`;
+
+exports[`Contrast #000000 text on "#999999" background 1`] = `
+Object {
+  "AA": true,
+  "AAA": true,
+  "AAALarge": true,
+  "AALarge": true,
+  "accessibilityLevels": Array [
+    "AALarge",
+    "AA",
+    "AAALarge",
+    "AAA",
+  ],
+  "contrast": 7.3709355625018365,
+}
+`;
+
+exports[`Contrast #000000 text on "#AAAAAA" background 1`] = `
+Object {
+  "AA": true,
+  "AAA": true,
+  "AAALarge": true,
+  "AALarge": true,
+  "accessibilityLevels": Array [
+    "AALarge",
+    "AA",
+    "AAALarge",
+    "AAA",
+  ],
+  "contrast": 9.039555596643915,
+}
+`;
+
+exports[`Contrast #000000 text on "#BBBBBB" background 1`] = `
+Object {
+  "AA": true,
+  "AAA": true,
+  "AAALarge": true,
+  "AALarge": true,
+  "accessibilityLevels": Array [
+    "AALarge",
+    "AA",
+    "AAALarge",
+    "AAA",
+  ],
+  "contrast": 10.938659901217408,
+}
+`;
+
+exports[`Contrast #000000 text on "#CCCCCC" background 1`] = `
+Object {
+  "AA": true,
+  "AAA": true,
+  "AAALarge": true,
+  "AALarge": true,
+  "accessibilityLevels": Array [
+    "AALarge",
+    "AA",
+    "AAALarge",
+    "AAA",
+  ],
+  "contrast": 13.076546777106755,
+}
+`;
+
+exports[`Contrast #000000 text on "#DDDDDD" background 1`] = `
+Object {
+  "AA": true,
+  "AAA": true,
+  "AAALarge": true,
+  "AALarge": true,
+  "accessibilityLevels": Array [
+    "AALarge",
+    "AA",
+    "AAALarge",
+    "AAA",
+  ],
+  "contrast": 15.461102578439387,
+}
+`;
+
+exports[`Contrast #000000 text on "#EEEEEE" background 1`] = `
+Object {
+  "AA": true,
+  "AAA": true,
+  "AAALarge": true,
+  "AALarge": true,
+  "accessibilityLevels": Array [
+    "AALarge",
+    "AA",
+    "AAALarge",
+    "AAA",
+  ],
+  "contrast": 18.099852162484677,
+}
+`;
+
+exports[`Contrast #000000 text on "#FFFFFF" background 1`] = `
+Object {
+  "AA": true,
+  "AAA": true,
+  "AAALarge": true,
+  "AALarge": true,
+  "accessibilityLevels": Array [
+    "AALarge",
+    "AA",
+    "AAALarge",
+    "AAA",
+  ],
+  "contrast": 21,
+}
+`;

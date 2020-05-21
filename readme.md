@@ -16,6 +16,8 @@
     A web tool to check whether your color scheme is a11y / WCAG compliant.
   </p>
   <br />
+  <pre><a href="https://pa11y.josephluck.now.sh/">https://pa11y.josephluck.now.sh/</a></pre>
+  <br />
   <br />
   <br />
   <br />
@@ -35,6 +37,12 @@
 
 - Calculating relative luminance:
   https://www.w3.org/TR/2008/REC-WCAG20-20081211/#relativeluminancedef
+
+- Understanding colors and luminance:
+  https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_Colors_and_Luminance
+
+- List of color tools:
+  https://github.com/joomla/accessibility/blob/master/docs/tutorials/tools-color.md
 
 # Prior art
 
